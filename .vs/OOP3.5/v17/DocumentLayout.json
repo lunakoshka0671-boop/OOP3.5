@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Student\\OOP3.5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|C:\\Student\\OOP3.5\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5768658D-5753-57BE-9F55-89088097DC31}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|C:\\Student\\OOP3.5\\OOP3.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|solutionrelative:OOP3.5\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|C:\\Student\\OOP3.5\\OOP3.5\\Polinom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|solutionrelative:OOP3.5\\Polinom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|C:\\Student\\OOP3.5\\OOP3.5\\Polinom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|solutionrelative:OOP3.5\\Polinom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|C:\\Student\\OOP3.5\\OOP3.5\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|solutionrelative:OOP3.5\\Array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|C:\\Student\\OOP3.5\\OOP3.5\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7860B0DD-60C5-4C0D-AA8E-6331C1BFC1CB}|OOP3.5\\OOP3.5.vcxproj|solutionrelative:OOP3.5\\Array.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 362,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Student\\OOP3.5\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Student\\OOP3.5\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAUBAAAAAAAAAAAIwA0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T12:30:58.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Student\\OOP3.5\\OOP3.5\\Source.cpp",
+              "RelativeDocumentMoniker": "OOP3.5\\Source.cpp",
+              "ToolTip": "C:\\Student\\OOP3.5\\OOP3.5\\Source.cpp",
+              "RelativeToolTip": "OOP3.5\\Source.cpp",
+              "ViewState": "AgIAAGYAAAAAAAAAAAAAAGsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T12:14:02.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Polinom.cpp",
+              "DocumentMoniker": "C:\\Student\\OOP3.5\\OOP3.5\\Polinom.cpp",
+              "RelativeDocumentMoniker": "OOP3.5\\Polinom.cpp",
+              "ToolTip": "C:\\Student\\OOP3.5\\OOP3.5\\Polinom.cpp",
+              "RelativeToolTip": "OOP3.5\\Polinom.cpp",
+              "ViewState": "AgIAADUBAAAAAAAAAAAIwDkBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T12:08:43.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Polinom.h",
+              "DocumentMoniker": "C:\\Student\\OOP3.5\\OOP3.5\\Polinom.h",
+              "RelativeDocumentMoniker": "OOP3.5\\Polinom.h",
+              "ToolTip": "C:\\Student\\OOP3.5\\OOP3.5\\Polinom.h",
+              "RelativeToolTip": "OOP3.5\\Polinom.h",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-18T11:45:42.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Array.cpp",
+              "DocumentMoniker": "C:\\Student\\OOP3.5\\OOP3.5\\Array.cpp",
+              "RelativeDocumentMoniker": "OOP3.5\\Array.cpp",
+              "ToolTip": "C:\\Student\\OOP3.5\\OOP3.5\\Array.cpp",
+              "RelativeToolTip": "OOP3.5\\Array.cpp",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAAH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-18T11:44:25.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Array.h",
+              "DocumentMoniker": "C:\\Student\\OOP3.5\\OOP3.5\\Array.h",
+              "RelativeDocumentMoniker": "OOP3.5\\Array.h",
+              "ToolTip": "C:\\Student\\OOP3.5\\OOP3.5\\Array.h",
+              "RelativeToolTip": "OOP3.5\\Array.h",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-11-18T11:40:20.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
